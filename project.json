@@ -1,0 +1,10 @@
+{
+  "debugMode": 0,
+  "frameRate": 60,
+  "id": "gameCanvas",
+  "renderMode": 1,
+  "jsList": [],
+  "width": 352,
+  "height": 410,
+  "showFPS": false
+}
